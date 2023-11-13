@@ -1,6 +1,5 @@
 controller1.local ansible_host=127.0.0.1
 controller2.local ansible_host=127.0.0.1
-localhost
 
 [controllers]
 controller1.local
